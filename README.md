@@ -9,3 +9,7 @@ src="https://api.codeclimate.com/v1/badges/150b7537e0583a407ec7/maintainability"
 <a href="https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF" 
 target="_blank"><img 
 src="https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF.svg" /></a>
+
+
+<a href="https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ" target="_blank"><img 
+src="https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ.svg" /></a>
