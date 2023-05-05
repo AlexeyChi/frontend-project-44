@@ -6,10 +6,16 @@ href="https://codeclimate.com/github/AlexeyChi/frontend-project-44/maintainabili
 src="https://api.codeclimate.com/v1/badges/150b7537e0583a407ec7/maintainability" 
 /></a>
 
+Brain-Even
 <a href="https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF" 
 target="_blank"><img 
 src="https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF.svg" /></a>
 
-
+Brain-Calc
 <a href="https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ" target="_blank"><img 
 src="https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ.svg" /></a>
+
+Brain-Gcd
+
+<a href="https://asciinema.org/a/h9tyC89rYhMYpa7EHShvKPy7W" target="_blank"><img 
+src="https://asciinema.org/a/h9tyC89rYhMYpa7EHShvKPy7W.svg" /></a>
