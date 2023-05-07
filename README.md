@@ -1,5 +1,5 @@
 # Brain games
----------------------------------------------------
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlexeyChi/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/AlexeyChi/frontend-project-44/actions)
 
@@ -24,7 +24,7 @@ to play it again.
 Games can be installed on your operating system.
 
 
-###Installation*
+### Installation*
 
 `npm install brain-games`
 
@@ -34,30 +34,30 @@ The game is launched by entering the name of the game in terminal.
 
 ### Commands for launching games:
 * Calculator:
-`brain-calc`
+  * `brain-calc`
 * Progression:
-`brain-progression`
+  * `brain-progression`
 * Definition of an even number:
-`brain-even`
+  * `brain-even`
 * Finding the Greatest Common Divisor:
 `brain-gcd`
 * Definition of a prime number:
-`brain-prime`
+  * `brain-prime`
 
 ### Play demo
 
 **_Calculator_**
-[![asciicast](https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ.svg)](https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ)
+[![asciicast](https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ.svg)](https://asciinema.org/$
 
 **_Progression_**
 [![asciicast](https://asciinema.org/a/N4nGPNeQqjYsO8vV7lKMqqeo4.svg)](https://asciinema.org/a/N4nGPNeQqjYsO8vV7lKMqqeo4)
 
 **_Definition of an even number_**
-[![asciicast](https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF.svg)](https://asciinema.org/a/dYDEji2YbjFPJsNfW8JACGPAF)
+[![asciicast](https://asciinema.org/a/wKN6DbNV2YT5Ae49QBZSuarEC.svg)](https://asciinema.org/a/wKN6DbNV2YT5Ae49QBZSuarEC)
 
 **_Finding the Greatest Common Divisor_**
-[![asciicast](https://asciinema.org/a/h9tyC89rYhMYpa7EHShvKPy7W.svg)](https://asciinema.org/a/h9tyC89rYhMYpa7EHShvKPy7W)
+[![asciicast](https://asciinema.org/a/AfXz7YBBFQ9cpGjGti2G31Wdt.svg)](https://asciinema.org/a/AfXz7YBBFQ9cpGjGti2G31Wdt)
 
 **_Definition of a prime number_**
-[![asciicast](https://asciinema.org/a/QceW1UwLwhg3R7ktylzRIch9Y.svg)](https://asciinema.org/a/QceW1UwLwhg3R7ktylzRIch9Y)
+[![asciicast](https://asciinema.org/a/TM4cjLA86UhV80IGl1fB2kzCZ.svg)](https://asciinema.org/a/TM4cjLA86UhV80IGl1fB2kzCZ)
 
