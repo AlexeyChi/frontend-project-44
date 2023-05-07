@@ -28,26 +28,26 @@ Games can be installed on your operating system.
 
 `npm install brain-games`
 
-###Launch games
+### Launch games
 
 The game is launched by entering the name of the game in terminal.
 
 ### Commands for launching games:
 * Calculator:
-  * `brain-calc`
+`brain-calc`
 * Progression:
-  * `brain-progression`
+`brain-progression`
 * Definition of an even number:
-  * `brain-even`
+`brain-even`
 * Finding the Greatest Common Divisor:
 `brain-gcd`
 * Definition of a prime number:
-  * `brain-prime`
+`brain-prime`
 
 ### Play demo
 
 **_Calculator_**
-[![asciicast](https://asciinema.org/a/kEKbFut7UpdfTmvHL2ZKctaRJ.svg)](https://asciinema.org/$
+[![asciicast](https://asciinema.org/a/lzRSEczEattKflH2JhX2FsA00.svg)](https://asciinema.org/a/lzRSEczEattKflH2JhX2FsA00)
 
 **_Progression_**
 [![asciicast](https://asciinema.org/a/N4nGPNeQqjYsO8vV7lKMqqeo4.svg)](https://asciinema.org/a/N4nGPNeQqjYsO8vV7lKMqqeo4)
