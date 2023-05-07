@@ -19,8 +19,9 @@ const generateNewRound = () => {
   const firstItem = getRandomInt();
   const stepOfProgression = getRandomInt(1, 10);
   const randomIndex = getRandomInt(1, progressionMaxLength - 1);
-  const value = makeArray(firstItem, stepOfProgression, randomIndex);
-  const correctAnswer = String(value[randomIndex - 1] + stepOfProgression);
+  const progression = makeArray(firstItem, stepOfProgression, randomIndex);
+  const value = progression.join(' ');
+  const correctAnswer = String(progression[randomIndex - 1] + stepOfProgression);
   return [value, correctAnswer];
 };
 
