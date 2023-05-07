@@ -24,7 +24,7 @@ to play it again.
 Games can be installed on your operating system.
 
 
-### Installation*
+### Installation
 
 `npm install brain-games`
 
