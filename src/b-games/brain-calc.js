@@ -3,10 +3,7 @@ import getRandomInt from '../randomizer.js';
 
 const gameRules = 'What is the result of the expression?';
 
-const getRandomOperator = (arr) => {
-  const randomOperator = arr[Math.floor((Math.random() * arr.length))];
-  return randomOperator;
-};
+const operators = ['+', '-', '*'];
 
 const calculator = (firstNumber, operator, secondNumber) => {
   switch (operator) {
@@ -21,12 +18,10 @@ const calculator = (firstNumber, operator, secondNumber) => {
   }
 };
 
-const operators = ['+', '-', '*'];
-
 const generateNewRound = () => {
   const firstNum = getRandomInt();
   const secondNum = getRandomInt();
-  const operator = getRandomOperator(operators);
+  const operator = operators[getRandomInt(0, operators.length - 1)];
   const value = `${firstNum} ${operator} ${secondNum}`;
   const correctAnswer = String(calculator(firstNum, operator, secondNum));
   return [value, correctAnswer];
